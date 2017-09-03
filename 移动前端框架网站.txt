@@ -1,0 +1,44 @@
+
+
+移动端跨平台框架
+
+1、React Native
+Facebook早先开源的UI框架 React 在原生移动应用平台的衍生产物，目前支持iOS和安卓两大平台。
+中文网：http://reactnative.cn/
+官网：https://facebook.github.io/react-native/
+
+2、NativeScript
+基于老牌的前端构架 Angular之上构建
+https://www.nativescript.org/
+
+3、WEEK
+阿里巴巴出品的一个构架，它是基于最近火热的前端构架 Vue.js构建 
+https://weex.apache.org/cn/
+
+
+
+移动端前端框架UI库
+1、Frozen Ui
+简单易用，轻量快捷，为移动端服务的前端框架
+http://frozenui.github.io/
+
+2、SUI Mobile
+轻量，小巧且精美的UI库，方便迅速搭建手机H5应用
+http://m.sui.taobao.org/
+
+3、MUI
+最接近原生APP体验
+http://dev.dcloud.net.cn/mui/
+
+4、WeUI
+WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信内网页和微信小程序量身设计，令用户的使用感知更加统一。
+https://weui.io/
+
+
+5、AUI
+以细节入手，遵循Google Material设计规范
+http://www.auicss.com/
+
+6、Amaze UI React
+基于 React.js 开发的 Web 组件库
+http://amazeui.org/react/
